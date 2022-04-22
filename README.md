@@ -87,7 +87,7 @@ A missão de revelar a mensagem abaixo foi consolidada com sucesso!
 
 "pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"
 
-![mensagem-secreta.png](./images/mensagem-secreta.png)
+![mensagem-secreta.png](mensagem-secreta.png)
 
 Valeu Alura + ORACLE ONE por oportunizar a realização desta mensagem. Até o próxima desafio!
 
