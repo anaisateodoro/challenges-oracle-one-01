@@ -93,6 +93,8 @@ Valeu Alura + ORACLE ONE por oportunizar a realização desta mensagem. Até o p
 
 ## 8. Links úteis
 
+Projeto do desafio 01 - [challenges-oracle-one-01/](https://anaisateodoro.github.io/challenges-oracle-one-01/)
+
 [Alura - Decodificador de texto alura challenges oracle one](https://www.alura.com.br/)
 
 [Trello - Ferramenta para organizar as etapas do desafio e movimentação do painel de gerenciamento de requisitos do desafio](https://trello.com/invite/b/F7hUMZAe/c0215f95381f2e46f3ab0378ce0afd64/desafio-01-decodificador-de-texto-alura-challenges-oracle-one)
