@@ -102,7 +102,7 @@ Projeto do desafio 01 - [challenges-oracle-one-01/](https://anaisateodoro.github
 [Figma - Interface do usuário (UI)](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=0%3A1)
 
 ---
-
+![badge-one-oracle-next-education-desafio-01](cms_files_10224_1644515575BADGE_2.png)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
